@@ -1,0 +1,3 @@
+C:/Users/diazm/CLionProjects/trabajodeldiajueves8/cmake-build-debug/CMakeFiles/trabajodeldiajueves8.dir
+C:/Users/diazm/CLionProjects/trabajodeldiajueves8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diazm/CLionProjects/trabajodeldiajueves8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
